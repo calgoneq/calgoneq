@@ -1,12 +1,23 @@
-## Cześć, jestem Wojtek 👋
+### Cześć, jestem Wojtek 👋
 
-Student Informatyki i Systemów Inteligentnych na AGH (2. rok).
+Student Informatyki i Systemów Inteligentnych na AGH (2. rok).  
 Buduję narzędzia w Pythonie — automatyzacja, API, scraping.
 
-**Aktualnie:**
-- Python — kurs praktyczny (CLI → OOP → FastAPI → PostgreSQL)
-- `budget tracker` — aplikacja do zarządzania wydatkami
+---
 
-**Stack:** Python · FastAPI · PostgreSQL (w trakcie) · Git
+### Projekty
 
-[LinkedIn](TU_LINK) · [useme.pl](TU_LINK)
+**[budget-tracker](https://github.com/calgoneq/budget-tracker)** — REST API do zarządzania wydatkami  
+FastAPI · SQLAlchemy ORM 2.0 · PostgreSQL · Alembic · pytest
+
+---
+
+### Stack
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `pytest` `Git`
+
+---
+
+### Kontakt
+
+  [LinkedIn](https://www.linkedin.com/in/wojciech-caldzudis) · [useme.pl](https://useme.com/pl/roles/contractor/calgoneq,638519/)
