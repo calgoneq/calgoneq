@@ -1,26 +1,26 @@
-### Cześć, jestem Wojtek 👋
+### Hi, I'm Wojtek 👋
 
-Student Informatyki i Systemów Inteligentnych na AGH (2. rok).  
-Buduję narzędzia w Pythonie — automatyzacja, API, scraping.
+2nd-year Computer Science & Intelligent Systems student at **AGH University of Science and Technology** in Kraków.
+I build practical tools and production-ready systems with Python — focused on backends, APIs, automation and data processing.
 
 ---
 
-### Projekty
+### Projects
 
-**[budget-tracker](https://github.com/calgoneq/budget-tracker)** — REST API do zarządzania wydatkami  
-FastAPI · SQLAlchemy ORM 2.0 · PostgreSQL · Alembic · Gemini AI · pytest · Docker
+**[budget-tracker](https://github.com/calgoneq/budget-tracker)** — REST API for personal expense tracking  
+`FastAPI · SQLAlchemy ORM 2.0 · PostgreSQL · Alembic · Gemini AI · pytest · Docker`
 
-**[jazdroj](https://github.com/calgoneq/jazdroj)** — aplikacja mobilna dla turystów Jastrzębia-Zdroju 🥇  
-React Native · i18n · dark/light theme · 1. miejsce SMART Jastrzębie
+**[jazdroj](https://github.com/calgoneq/jazdroj)** — Mobile tourist guide app for Jastrzębie-Zdrój 🥇  
+`React Native · Firebase · i18next · dark/light theme`  
+1st place in the SMART Jastrzębie municipal competition
 
 ---
 
 ### Stack
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `pytest` `Gemini AI` `React Native` `Git` `Docker`
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `pytest` `Gemini AI` `React Native` `Git` `Docker`
 
 ---
 
-### Kontakt
-
-[LinkedIn](https://www.linkedin.com/in/wojciech-caldzudis) · [useme.pl](https://useme.com/pl/roles/contractor/calgoneq,638519/)
+### Let's connect
+[LinkedIn](https://www.linkedin.com/in/wojciech-caldzudis)
