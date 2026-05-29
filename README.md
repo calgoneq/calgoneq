@@ -8,7 +8,7 @@ Buduję narzędzia w Pythonie — automatyzacja, API, scraping.
 ### Projekty
 
 **[budget-tracker](https://github.com/calgoneq/budget-tracker)** — REST API do zarządzania wydatkami  
-FastAPI · SQLAlchemy ORM 2.0 · PostgreSQL · Alembic · Gemini AI · pytest
+FastAPI · SQLAlchemy ORM 2.0 · PostgreSQL · Alembic · Gemini AI · pytest · Docker
 
 **[jazdroj](https://github.com/calgoneq/jazdroj)** — aplikacja mobilna dla turystów Jastrzębia-Zdroju 🥇  
 React Native · i18n · dark/light theme · 1. miejsce SMART Jastrzębie
@@ -17,7 +17,7 @@ React Native · i18n · dark/light theme · 1. miejsce SMART Jastrzębie
 
 ### Stack
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `pytest` `Gemini AI` `React Native` `Git`
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `pytest` `Gemini AI` `React Native` `Git` `Docker`
 
 ---
 
